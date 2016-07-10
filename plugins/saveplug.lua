@@ -1,6 +1,6 @@
---Created by: @WaderTGTeam
---Powered by: @WaderTGTeam
---âڑ ï¸ڈCopyRight all right reservedâڑ ï¸ڈ
+--Created by: @janlou & @Alirezame
+--Powered by: @SUDO_TM & @AdvanTM
+--⚠️CopyRight all right reserved⚠️
 
 local function saveplug(extra, success, result)
   local msg = extra.msg
@@ -34,6 +34,6 @@ return {
   run = run,
 }
 
---Created by: @WaderTGTeam
---Powered by: @WaderTGTeam
---âڑ ï¸ڈCopyRight all right reservedâڑ ï¸ڈ
+--Created by: @janlou & @Alirezame
+--Powered by: @SUDO_TM & @AdvanTM
+--⚠️CopyRight all right reserved⚠️
