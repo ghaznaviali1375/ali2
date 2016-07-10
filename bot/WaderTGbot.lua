@@ -247,7 +247,7 @@ function create_config( )
 	"text2sticker",
 	"server",
 	"voice",
-	"wai"
+	"wai",
 	"saveplug",
 	"plugins"
     },
