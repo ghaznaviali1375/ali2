@@ -251,7 +251,7 @@ function create_config( )
 	"saveplug",
 	"plugins"
     },
-    sudo_users = {231053528,171660991,0,tonumber(our_id)},--Sudo users
+    sudo_users = {231053528,168681881,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[این ربات توسط تیم تلگفا نوشته شده است 
     جهت خرید میتوانید با ایدی زیر تماس حاصل فرمائید
@@ -608,7 +608,7 @@ ____________________
   ____________________
   ابزار ها
   --- نمایش لیست ابزار ها
-
+__________________________
 ]],
   }
   serialize_to_file(config, './data/config.lua')
